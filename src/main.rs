@@ -8,4 +8,5 @@ fn main() {
         b.disp();
     }
     println!("Winner is {:?}", b.winner());
+    println!("NICE JOB");
 }
